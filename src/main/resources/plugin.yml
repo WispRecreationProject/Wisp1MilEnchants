@@ -1,0 +1,8 @@
+name: Wisp1MilEnchants
+version: ${project.version}
+main: dev.yhdiamond.wisp1milenchants.Wisp1MilEnchants
+api-version: 1.16
+commands:
+  wisp1milenchants:
+    usage: /wisp1milenchants <start/stop>
+    description: Starts the Wisp Enchants are 1,000,000 challenge.
